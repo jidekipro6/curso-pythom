@@ -1,0 +1,147 @@
+.index()   te indica en que posicion esta lo que introduscas en los parenstesis
+h=[1,2,3,4,5,6]
+print(h.index(6))    imprime el 5 ya q se encunetra en la posicion 5 contando desde 0
+
+in   en
+and   y  ambos tienen q cumplirse
+or   o  uno de lso 2 se tiene q cumplir
+
+
+operaciones entre pares ()
+potensiacion entre raices **
+operadores logicos  and  or  not 
+
+ 
+add  agrega 1
+update 
+
+remove  si no lo encuentra sale error
+
+discard  si no encuentra no sale error
+
+pop  elimina un numeor de forma aleatoria
+dics
+
+
+//disccionriio
+profe {
+    'nombre':'luca',
+    'edad':'24'
+    'ojos':'claros'
+}
+
+solo llamas a profe y la varibale para q te muestre el dato
+
+print(alumno[2]['nombre'])
+
+
+len  da las 
+
+add   1
+update muchos
+
+borra con el pop(la valiable del diccionario)
+
+keys   las variables  
+values  las variables del diccionario
+
+
+
+alumno[]    lista
+alumno{}   disccionario
+
+
+
+-------------------semana 9 ------------------
+
+metodos de string
+
+texto="byTheCode enseña programacion"
+print(texto.upper())                                 LO PONE todo MAYUSCULAS
+
+texto="byTheCode enseña programacion"
+print(texto.lower())                             lo pone a todo minuscula
+
+
+texto="byTheCode enseña programacion"
+print(texto.capitalize())                         la primera en mayuscula
+
+texto="byTheCode enseña programacion"
+print(texto.title())                              las primeras a mayuscula
+
+oracion="byTheCode enseña programacion"
+print(twxto.split( ','))                         la separacion 
+'hola,que,tal'
+
+texto="byTheCode enseña programacion"
+print(oracion.count(bythecode))    cuenta la cantidad de bythecode
+
+
+print('hola','lucas'.replace('lucas','luca'))
+
+fruta=['banana','naranja']
+fruta.insert(1,'uvA')                   insertar
+print(frutas)
+
+
+
+numero =[4,3,2,1]
+numero.reverse()
+print(numeros)  dar buelta a la lista
+
+
+edades=[22,45,32,38]
+edades.sort(reverse=true)         sin reverse
+print(edades)               ordenas
+
+
+union     
+intersection      esta en los 2
+
+
+
+W   lo remplaza
+a   agrega a loq  esta
+r lectura
+
+
+
+seek(60)  cuanta de la posicio q le indiques
+
+
+texto='Byte The Code hce LA Diferencia'
+
+print(texto.capitalize())    la 1 era letra en mayuscula
+           .title()     cada apalbra comiene con mayuscula
+           .cound()    cuantas veces se repite esa palabra  
+           .revers()  los muestra la ista a lo contrario 123    321
+           .sort()  ordena los numeros de menor a mayor
+           .upper()  lo convierte todo a mayuscula
+
+ texto='ByteTheCode tutoriales codigo aprendisaje'
+print(texto.oracion.split('-')) 
+
+'ByteTheCode-tutoriales-codigo-aprendisaje
+
+&  interseccion quee sta en ambos 
+| union  todo los nu neros
+
+issubset        sis que todo lo de a esta en b  tru o folse
+intersecction    lo q esta en ambos
+union           todos los de a y b
+
+
+W   lo remplaza
+a   agrega a loq  esta
+r  lectura
+
+readline()  cargar reglon
+seek() nos permite comenzar  en la posicion que queramo 
+
+
+def     funcion 
+
+clase 11
+
+*args    guarda valores
+**kwargs   guarda clave y valores 
