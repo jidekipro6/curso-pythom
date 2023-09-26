@@ -145,3 +145,33 @@ clase 11
 
 *args    guarda valores
 **kwargs   guarda clave y valores 
+
+
+·····####################################3
+
+GIT  versionar el codigo
+
+git init
+git add "nombre del documento"
+git status
+git commit -m 'descripcion del comit'
+git status  para ver si se hizo el comit correctamente
+
+git checkout 0d9c2ee3ada8e6796cf49d0f7c98ba9f949d7676 
+
+
+creas una copia del prpyecto
+git checkout master te dijires al master
+git merge text_3   el cambio al master agrega el cambio al proyecto 
+
+
+
+git hub 
+
+
+git init
+git add .
+
+git comit -m 'nombre del prpyecto'
+
+copiar los 3 codigos del fit bhub de lo que creaste el repositorio
